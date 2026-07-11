@@ -3,6 +3,9 @@
 An AI-powered study assistant that helps students learn smarter by generating summaries, quizzes, flashcards, and answering questions from study notes.
 
 ---
+## 🌐 Live Demo
+
+https://ai-study-buddy-flame.vercel.app/
 
 ## ✨ Features
 
