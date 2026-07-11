@@ -7,6 +7,8 @@ An AI-powered study assistant that helps students learn smarter by generating su
 
 https://ai-study-buddy-flame.vercel.app/
 
+https://vimeo.com/1209080755?share=copy&fl=sv&fe=ci
+
 ## ✨ Features
 
 - 📄 AI Summary Generator
