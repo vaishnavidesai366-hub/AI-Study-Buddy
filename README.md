@@ -31,23 +31,25 @@ An AI-powered study assistant that helps students learn smarter by generating su
 
 ### 🏠 Home Page
 
-(Add screenshot here)
+![alt text](<Screenshot 2026-07-11 183634.png>)
+![alt text](<Screenshot 2026-07-11 183649.png>)
 
 ### 📄 AI Summary
 
-(Add screenshot here)
+![alt text](image.png)
 
 ### 📝 AI Quiz
 
-(Add screenshot here)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ### 🃏 AI Flashcards
 
-(Add screenshot here)
+![alt text](image-3.png)
 
 ### 💬 Ask AI
 
-(Add screenshot here)
+![alt text](image-4.png)
 
 ---
 
