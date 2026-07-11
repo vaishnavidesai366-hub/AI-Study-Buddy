@@ -56,6 +56,10 @@ https://vimeo.com/1209080755?share=copy&fl=sv&fe=ci
 
 ![alt text](image-4.png)
 
+
+### Video demo
+
+<video controls src="AI study buddy demo.mp4" title="Title"></video>
 ---
 
 ## 🚀 Installation
